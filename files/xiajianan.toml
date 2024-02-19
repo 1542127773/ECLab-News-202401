@@ -1,0 +1,14 @@
+[editor]
+name = "Jianan XIA"
+degree = "Undergraduate, 2020"
+
+[article.1]
+title = '''Are upside-down faces perceived as "less human"?'''
+doi = "https://doi.org/10.1037/xhp0001167"
+authors = "Adam Eggleston, Richard Cook, Harriet Over"
+journal = "Journal of Experimental Psychology: Human Perception and Performance"
+publish = "Volume 49, issue 12, Pages  1503–1517"
+category = "Face"
+summary = "本研究发现倒置人脸并不会影响人们对人类特质的归因。积极效价的（可信的）人脸倒置时会被认为不那么又创造力、体贴、善解人意；而负面效价的（不可信的）面孔倒置时被人们认为更具创造力、更体贴、更善解人意。"
+abstract = '''According to perceptual dehumanization theory (PDT), faces are only perceived as "truly human" when processed in a configural fashion. Consistent with this theory, previous research indicates that when faces are inverted, a manipulation hypothesized to disrupt configural processing, the individuals depicted are attributed fewer uniquely human qualities. In a seminal paper, Hugenberg et al. (2016) reported that faces appeared less creative, less thoughtful, less empathetic, and possessed less "humanness" when inverted. Across four highly powered and preregistered experiments, we demonstrate that inversion does not influence the attribution of uniquely human traits specifically. Rather, in line with research on face processing, inversion impedes face encoding more generally, causing trait attributions to tend toward the mean. Positively valanced faces (i.e., those judged to be trustworthy when presented upright) are perceived to be less creative, considerate, thoughtful, and empathetic when inverted. Conversely, negatively valanced faces (i.e., those judged to be untrustworthy when presented upright) are judged to be more creative, considerate, thoughtful, and empathetic when inverted. Furthermore, we show that the effect of inversion on judgments of "humanness" reflects a general phenomenon that can be replicated with other (nonface) stimulus categories that also possess a canonical orientation. These findings suggest that a key line of evidence for PDT is considerably less convincing than it first appears.'''
+keywords = "Configural face processing, Dehumanization, Intergroup harm, Perceptual Dehumanization, Facial trustworthiness"
